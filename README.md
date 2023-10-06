@@ -3,3 +3,4 @@ Project for a course. Analyze the trend of the Italian population through the Le
 
 The exel files are the starting point for this analysis, they can be changed and the matlab file must be changed accordingly.
 The fertility rates are children per 1000 women.
+For the differentiation between male and female the two new exels must be downloaded
