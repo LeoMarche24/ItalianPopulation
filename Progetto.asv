@@ -166,8 +166,6 @@ margin2 = (w100-r100)/r100
 bar(work50, 'g')
 hold on
 bar(ret50, 'b')
-custom_labels = 20:10:100;
-xticklabels(custom_labels);
 legend('Lavoratori', 'Pensionati')
 title('Sistema previdenziale')
 
